@@ -12,3 +12,9 @@ The channels where you can find me are:
   - DITA Users List: https://dita-users.groups.io/g/main
   - Stack Overflow: https://stackoverflow.com/
 
+I also write articles and generally maintain the Oxygen XML Blog: https://blog.oxygenxml.com/
+
+I contribute small bug fixes, ideas and suggestions to the DITA Open Toolkit project: https://www.dita-ot.org/who_we_are
+
+During these years I've developed quite a few open source project on the Oxygen XML GitHub organization, most of them plugins for the DITA Open Toolkit: https://github.com/search?q=topic%3Adita-ot-plugin+org%3Aoxygenxml&type=Repositories
+Some of the most useful plugins include the plugins to add support for Latex equation and PlantUML/Mermaid diagrams in DITA XML content.
