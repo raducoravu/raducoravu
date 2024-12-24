@@ -1,4 +1,6 @@
-# Some of the e-books I've finished reading in the past 5-10 years
+# Some of the e-books I've finished reading in the past 10+ years
+
+I used ChatGPT to add author, description for each of them and to organize the books by category so small inconsistencies may be present.
 
 ## **Science Fiction**
 
