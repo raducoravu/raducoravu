@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a software developer working in the past 20 and so years for **Syncrosoft**, the company which develops **Oxygen XML Editor/Author/Developer**. 
+I'm a software developer working in the past 20+ years for **Syncrosoft**, the company which develops **Oxygen XML Editor/Author/Developer**. 
 
 I worked a lot on the support in **Oxygen XML** for visually editing XML documents using CSS for styling, change tracking, **DITA XML** editing, custom actions and side views like the **DITA Maps Manager** view. I've also worked to develop the **APIs** which can be used to develop plugins for **Oxygen** or to customize advanced framework support. Recently I worked on developing AI-based tools for editing DITA XML content with Oxygen.
 
