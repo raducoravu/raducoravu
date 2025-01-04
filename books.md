@@ -4,9 +4,6 @@ I used ChatGPT to add author, description for each of them and to organize the b
 
 ## **Science Fiction**
 
-1. **QED: The Strange Theory of Light and Matter** by Richard P. Feynman
-   - A series of lectures by physicist Richard Feynman, explaining quantum electrodynamics in a way accessible to the general public.
-
 2. **The Stories of Ray Bradbury** by Ray Bradbury
    - A collection of short stories by the acclaimed science fiction and fantasy author, Ray Bradbury.
 
@@ -231,6 +228,8 @@ I used ChatGPT to add author, description for each of them and to organize the b
 ---
 
 ## **Non-Fiction**
+1. **QED: The Strange Theory of Light and Matter** by Richard P. Feynman
+   - A series of lectures by physicist Richard Feynman, explaining quantum electrodynamics in a way accessible to the general public.
 
 1. **A Short History of Nearly Everything** by Bill Bryson
    - A popular science book that explains some areas of science, using easily accessible language.
