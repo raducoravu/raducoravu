@@ -7,9 +7,6 @@ I used ChatGPT to add author, description for each of them and to organize the b
 2. **The Stories of Ray Bradbury** by Ray Bradbury
    - A collection of short stories by the acclaimed science fiction and fantasy author, Ray Bradbury.
 
-3. **A Short History of Nearly Everything** by Bill Bryson
-   - A popular science book that explains some areas of science, using easily accessible language.
-
 4. **Oryx and Crake** by Margaret Atwood
    - A dystopian novel exploring themes of genetic engineering and corporate dominance.
 
@@ -196,9 +193,6 @@ I used ChatGPT to add author, description for each of them and to organize the b
 
 6. **Persuasion** by Jane Austen
    - A novel about love and second chances, focusing on a young woman who reconnects with a former suitor.
-
-7. **Little Lord Fauntleroy** by Frances Hodgson Burnett
-   - A children's novel about a young American boy who discovers he is the heir to an English earldom.
 
 8. **The Remains of the Day** by Kazuo Ishiguro
    - A novel about an English butler reflecting on his life and service in the years leading up to World War II.
@@ -436,16 +430,3 @@ I used ChatGPT to add author, description for each of them and to organize the b
 
 1. **Bhagavad Gita** by Vyasa
    - A 700-verse Hindu scripture that is part of the Indian epic Mahabharata, consisting of a conversation between Prince Arjuna and the god Krishna.
-
----
-
-### **Self-Help**
-
-1. **The Art of Public Speaking** by Dale Carnegie and J. Berg Esenwein
-   - A guide to improving public speaking skills, offering practical advice and techniques.
-
-2. **How to Win Friends and Influence People** by Dale Carnegie
-   - A self-help book offering practical advice on how to improve social skills and influence others.
-
-3. **Arrest-Proof Yourself** by Dale C. Carson
-   - A guide offering practical advice on how to avoid arrest and navigate encounters with law enforcement.
