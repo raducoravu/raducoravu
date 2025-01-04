@@ -18,3 +18,5 @@ I contribute small bug fixes, ideas and suggestions to the DITA Open Toolkit pro
 
 During these years I've developed quite a few open source project on the Oxygen XML GitHub organization, most of them plugins for the DITA Open Toolkit: https://github.com/search?q=topic%3Adita-ot-plugin+org%3Aoxygenxml&type=Repositories
 Some of the most useful plugins include the plugins to add support for Latex equation and PlantUML/Mermaid diagrams in DITA XML content.
+
+I enjoy reading, a list with some of the books I've read: https://github.com/raducoravu/raducoravu/blob/main/books.md
