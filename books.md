@@ -257,7 +257,7 @@ I used ChatGPT to add author, description for each of them and to organize the b
 
 10. **The Dawn of Everything** by David Graeber, David Wengrow
    - The Dawn of Everything" challenges our understanding of human history by exploring the origins of social inequality, the development of cities, and the evolution of human societies. The authors argue against the traditional narrative of linear progression from primitive to complex societies, offering a new perspective on the diversity and adaptability of human cultures.
-
+11. **Debt** by David Graeber
 ---
 
 ## **Self-Help / Personal Development**
