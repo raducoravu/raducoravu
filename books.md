@@ -94,6 +94,10 @@ I used ChatGPT to add author, description for each of them and to organize the b
 31. **The Murderbot Diaries** by Martha Wells
     - A series of science fiction novellas about a self-aware security android.
 
+32. **Century rain** by Alastair Reynolds
+
+33. **Children of time** by Adrian Tchaikovsky
+
 ---
 
 ## **Fantasy**
