@@ -98,6 +98,8 @@ I used ChatGPT to add author, description for each of them and to organize the b
 
 33. **Children of time** by Adrian Tchaikovsky
 
+34. **Dogs of war** by Adrian Tchaikovsky
+
 ---
 
 ## **Fantasy**
