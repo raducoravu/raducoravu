@@ -100,6 +100,12 @@ I used ChatGPT to add author, description for each of them and to organize the b
 
 34. **Dogs of war** by Adrian Tchaikovsky
 
+35. **We are legion (Bob)** by Dennis Taylor (audio)
+
+36. **Dungeon Crawler Carl** by Matt Dinnimann (audio)
+
+
+
 ---
 
 ## **Fantasy**
@@ -265,6 +271,7 @@ I used ChatGPT to add author, description for each of them and to organize the b
    - The Dawn of Everything" challenges our understanding of human history by exploring the origins of social inequality, the development of cities, and the evolution of human societies. The authors argue against the traditional narrative of linear progression from primitive to complex societies, offering a new perspective on the diversity and adaptability of human cultures.
 11. **Debt** by David Graeber
 12. **Blind Man's Bluff** by Sherry Sontag
+13. **The hero with a thousand faces** by Joseph Campbell (audio)
 ---
 
 ## **Self-Help / Personal Development**
