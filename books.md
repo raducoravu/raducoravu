@@ -214,6 +214,8 @@ I used ChatGPT to add author, description for each of them and to organize the b
 
 9. **The old man and the sea** bu Ernst Hemingway (audio)
 
+10. **Sherlock Holmes** by Arthur Conan Doyle (audio)
+
 ---
 
 ## **Historical Fiction**
@@ -398,6 +400,8 @@ I used ChatGPT to add author, description for each of them and to organize the b
 
 3. **The Big Sleep** by Raymond Chandler
    - A classic hardboiled detective novel featuring private investigator Philip Marlowe.
+
+6. **Frost at Christmas** by R D Wingfield (audio)
 
 ---
 
