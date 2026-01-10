@@ -212,6 +212,8 @@ I used ChatGPT to add author, description for each of them and to organize the b
 8. **The Remains of the Day** by Kazuo Ishiguro
    - A novel about an English butler reflecting on his life and service in the years leading up to World War II.
 
+9. **The old man and the sea** bu Ernst Hemingway (audio)
+
 ---
 
 ## **Historical Fiction**
@@ -342,6 +344,8 @@ I used ChatGPT to add author, description for each of them and to organize the b
 
 4. **The Book of Five Rings** by Miyamoto Musashi
    - A classic text on kenjutsu and the martial arts, written by the famous swordsman.
+
+5. **Musashi** by Eiji Yoshikawa (audio)
 
 ---
 
