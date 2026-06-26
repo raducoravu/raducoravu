@@ -280,6 +280,7 @@ I started more than 10 years ago to read books mostly in electronic and audio fo
 11. **Debt** by David Graeber
 12. **Blind Man's Bluff** by Sherry Sontag
 13. **The hero with a thousand faces** by Joseph Campbell (audio)
+14. **Blitzed** by Norman Ohler
 ---
 
 ## **Self-Help / Personal Development**
