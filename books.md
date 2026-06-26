@@ -1,6 +1,6 @@
-# Some of the e-books I've finished reading in the past 10+ years
+# E-books I've finished reading
 
-I used ChatGPT to add author, description for each of them and to organize the books by category so small inconsistencies may be present.
+I started more than 10 years ago to read books mostly in electronic and audio format. The list below contains books that I enjoyed enough to finish. They are organizer by category.
 
 ## **Science Fiction**
 
