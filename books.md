@@ -106,6 +106,8 @@ I started more than 10 years ago to read books mostly in electronic and audio fo
 
 37. **Six wakes** by Mur Lafferty
 
+38. **The thing itself** by Adam Roberts
+
 ---
 
 ## **Fantasy**
