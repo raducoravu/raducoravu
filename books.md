@@ -108,6 +108,8 @@ I started more than 10 years ago to read books mostly in electronic and audio fo
 
 38. **The thing itself** by Adam Roberts
 
+38. **Nightfall and other stories** by Isaac Asimov
+
 ---
 
 ## **Fantasy**
